@@ -69,7 +69,7 @@ We believe in:
 
 <img src="https://github-readme-stats.vercel.app/api?username=tanwar-harsh&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanwar-harsh&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tanwar-harsh&theme=tokyonight&hide_border=true&mode=weekly" height="160"/>
 
 </p>
 
