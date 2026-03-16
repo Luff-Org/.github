@@ -130,15 +130,3 @@ If you want to collaborate, contribute, or build something impactful — **you'r
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:7B68EE&height=120&section=footer"/>
 
 </p>
-
----
-
-If you want, I can also give you a **much more advanced version used by top GitHub orgs** that includes:
-
-* 🔥 3D contribution snake animation
-* 🧠 AI / cloud themed banner
-* 🚀 project showcase section
-* 📊 org contribution heatmap
-* 🧑‍🚀 futuristic developer theme
-
-It will make your **Luff-Org page look like a top open-source organization.**
